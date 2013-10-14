@@ -1,0 +1,1513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"valor",
+				"valor_final"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"table",
+				"tableImoveis"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"atend",
+				"atendimentoFooter"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"xsl",
+				"xslt_process"
+			],
+			[
+				"mb",
+				"mb_strstr"
+			],
+			[
+				"mbs",
+				"mbstring"
+			],
+			[
+				"INT",
+				"intl"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"exte",
+				"extension"
+			],
+			[
+				"php",
+				"phpFunctionExists"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"wind",
+				"window"
+			],
+			[
+				"ch",
+				"chrome"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"space",
+				"space-area"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"Input",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"aj",
+				"ajax	$.ajax()"
+			],
+			[
+				"bu",
+				"build"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"reques",
+				"RequestId"
+			],
+			[
+				"Anti",
+				"AntiFraudRequest"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fun",
+				"function	jsProp"
+			],
+			[
+				"docs",
+				"docspath"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"style",
+				"style	<style>"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"Contact",
+				"ContactEmailData"
+			],
+			[
+				"conta",
+				"ContactInfoData"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"an",
+				"antifraude"
+			],
+			[
+				"reque",
+				"REQUERIDO"
+			],
+			[
+				"req",
+				"REQUERIDO"
+			],
+			[
+				"Paym",
+				"PaymentDataCollection"
+			],
+			[
+				"pay",
+				"PaymentDataRequest"
+			],
+			[
+				"Order",
+				"OrderDataRequest"
+			],
+			[
+				"mer",
+				"MerchantId"
+			],
+			[
+				"so",
+				"SoapClient"
+			],
+			[
+				"Auth",
+				"Auth	Laravel: Auth::check()"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"Pro",
+				"profiles"
+			],
+			[
+				"auth",
+				"auth-user-id"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"current",
+				"current_action"
+			],
+			[
+				"Log",
+				"Log	Laravel: Log::write()"
+			],
+			[
+				"per",
+				"perms"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"tolo",
+				"toLocaleString	jsDate"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"vva",
+				"vValor"
+			],
+			[
+				"sval",
+				"sValorMin"
+			],
+			[
+				"svalor",
+				"sValorMax"
+			],
+			[
+				"sva",
+				"sValorMin"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"lorem",
+				"Lorem"
+			],
+			[
+				"vv",
+				"vValor"
+			],
+			[
+				"vVa",
+				"vValor"
+			],
+			[
+				"sdorm",
+				"sDormitorioMax"
+			],
+			[
+				"sv",
+				"sValorMax"
+			],
+			[
+				"sVa",
+				"sValorMin"
+			],
+			[
+				"sGara",
+				"sGaragensMin"
+			],
+			[
+				"vV",
+				"vValor"
+			],
+			[
+				"sS",
+				"sSuitesMax"
+			],
+			[
+				"lo",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"setTime",
+				"setTimeout	jsWindow"
+			],
+			[
+				"cons",
+				"console.	console.log()"
+			],
+			[
+				"filter",
+				"filterTable"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"pode",
+				"podeInt"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"tran",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"strtime",
+				"strftime"
+			],
+			[
+				"inpu",
+				"input	input - checkbox"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"form",
+				"form-text"
+			],
+			[
+				"Redirec",
+				"Redirect	Laravel: Redirect::to_route()"
+			],
+			[
+				"Red",
+				"Redirect	Laravel: Redirect::to()"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"wa",
+				"wallet"
+			],
+			[
+				"fo",
+				"fon	CSS - font: 1em/1.5 sans-serif;"
+			],
+			[
+				"valida",
+				"validationMessages"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"clear",
+				"clear-compiled"
+			],
+			[
+				"bla",
+				"blackList"
+			],
+			[
+				"Segm",
+				"segmentsTotal"
+			],
+			[
+				"segm",
+				"segmentsTotal"
+			],
+			[
+				"Request",
+				"Request	Laravel: Request::spoofed()"
+			],
+			[
+				"Str",
+				"Str	Laravel: Str::slug()"
+			],
+			[
+				"Ro",
+				"Route	Laravel: Route::get()"
+			],
+			[
+				"Reque",
+				"Request	Laravel: Request::uri()"
+			],
+			[
+				"Route",
+				"Router	Laravel: Router::controller()"
+			],
+			[
+				"Lang",
+				"Lang	Laravel: Lang::load()"
+			],
+			[
+				"Config",
+				"Config	Laravel: Config::get()"
+			],
+			[
+				"us",
+				"userLang"
+			],
+			[
+				"arr",
+				"array2"
+			],
+			[
+				"nice",
+				"niceArea"
+			],
+			[
+				"pro",
+				"profFields"
+			],
+			[
+				"user",
+				"userFields"
+			],
+			[
+				"va",
+				"validation"
+			],
+			[
+				"prof",
+				"profValidr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"syntax",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"text",
+				"Set Syntax: Textile"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"b ash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"wrpa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"auto",
+				"Autocomplete file name"
+			],
+			[
+				"compl",
+				"Autocomplete file name"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"ym",
+				"Set Syntax: YAML"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"comm",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"ra",
+				"Generate Random Text"
+			],
+			[
+				"ran",
+				"Generate Random Text"
+			],
+			[
+				"sass",
+				"Set Syntax: CSS"
+			],
+			[
+				"random",
+				"Generate Random Text"
+			],
+			[
+				"compose",
+				"Composer: Update"
+			],
+			[
+				"composer",
+				"Composer: Validate composer.json"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Snippet: la",
+				"Snippet: lay"
+			],
+			[
+				"rand",
+				"Generate Random Text"
+			],
+			[
+				"apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"apac",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"html ca",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mardk",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"clip",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"nark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html com",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"html comm",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ns",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"emmet",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 562.0
+	},
+	"console":
+	{
+		"height": 360.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Server/customers/staging/n/nfe/readme.md",
+		"/D/Server/customers/staging/n/nfe/scripts/danfe.php",
+		"/D/Server/customers/staging/n/nfe/scripts/printDANFE.php",
+		"/D/Server/customers/staging/n/nfe/scripts/enviaemail.php",
+		"/D/Server/customers/staging/n/nfe/scripts/Enviaemail.php",
+		"/D/Server/customers/staging/n/nfe/scripts/gerar_nota.php",
+		"/D/Server/customers/staging/n/nfe/scripts/ExemploCompletoPhp2Txt2XML2NFEAntesPrintDanfe.php",
+		"/D/Server/customers/staging/n/ExemploCompletoPhp2Txt2XML2NFEAntesPrintDanfe.php",
+		"/D/Server/customers/staging/n/Enviaemail.php",
+		"/D/Server/customers/staging/n/printDANFE.php",
+		"/D/Server/customers/staging/n/nfe/@@/homologacao/temporarias/12344567000164-0-20131002_135440-LNFe.xml",
+		"/D/Server/customers/staging/n/nfe/@@/nfephp/composer.json",
+		"/D/Downloads/ExemploCompletoNFEPHP/ExemploCompletoPhp2Txt2XML2NFEAntesPrintDanfe.php",
+		"/D/Server/customers/staging/n/nfe/README.md",
+		"/D/Server/customers/staging/n/nfe/NFe/scripts/xml/35131012344567000164550010012862561015977950-nfe.xml",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/page.css",
+		"/D/Server/Vagrantfile",
+		"/D/Server/default",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/node--421.tpl.php",
+		"/D/Server/.pwds.yml",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/settings 2.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/settings 3.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/settings.php",
+		"/D/Downloads/quinelato.sql",
+		"/C/Users/Felipe/AppData/Local/Temp/7zO1C26.tmp/quinelato.sql",
+		"/D/Server/quinelato/sites/all/themes/sky/css/quinelato.css",
+		"/D/Server/quinelato/sites/all/modules/advpoll/advpoll.install",
+		"/D/Server/quinelato/sites/all/modules/advpoll/advpoll_field/advpoll_field.install",
+		"/C/Program Files (x86)/Xampp/php/php.ini",
+		"/C/Program Files (x86)/Xampp/apache/conf/httpd.conf",
+		"/C/Program Files (x86)/Xampp/apache/conf/extra/httpd-proxy.conf",
+		"/C/Program Files (x86)/Xampp/mysql/bin/my.ini",
+		"/D/Server/quinelato/sites/all/modules/video_filter_field/video_filter_field.module",
+		"/D/Server/quinelato/sites/default/settings.php",
+		"/D/Downloads/quinela_qfreios_new.sql",
+		"/C/program files (x86)/Xampp/apache_start.bat",
+		"/C/cygwin64/home/Felipe/.bashrc",
+		"/C/cygwin64/home/Felipe/.bin/www",
+		"/C/cygwin64/home/Felipe/.profile",
+		"/D/Downloads/Torrents/Concluído/AP/Office ProPlus 2013 VL (x86 and x64) EN/Office 2013 KMSmicro Activator v3.10/KMSmicro v3.10/0-0-KMSmicro-normal.cmd",
+		"/D/Downloads/Torrents/Concluído/AP/Office ProPlus 2013 VL (x86 and x64) EN/Office 2013 KMSmicro Activator v3.10/KMSmicro v3.10/Office2013-Win8-Localhost.reg",
+		"/C/cygwin64/home/Felipe/VirtualBox VMs/Sites_sites_1380223109/Sites_sites_1380223109.vbox",
+		"/C/cygwin64/home/Felipe/.VirtualBox/VirtualBox.xml",
+		"/C/Users/Felipe/Server/Vagrantfile",
+		"/C/Users/Felipe/Server/default",
+		"/C/Users/Felipe/Server/.vagrant/machines/sites/virtualbox/action_provision",
+		"/C/Users/Felipe/Server/.vagrant/machines/sites/virtualbox/action_set_name",
+		"/C/Users/Felipe/Server/.vagrant/machines/sites/virtualbox/id",
+		"/C/cygwin64/home/Felipe/VirtualBox VMs/precise32/precise32.vbox",
+		"/G/Felipe/CygWin/Felipe/.gemrc",
+		"/G/Felipe/CygWin/Felipe/.profile",
+		"/G/Felipe/CygWin/Felipe/.bash_profile",
+		"/G/Felipe/CygWin/Felipe/dcodde.sh",
+		"/G/Felipe/CygWin/Felipe/.inputrc",
+		"/G/Felipe/CygWin/Felipe/.gitconfig",
+		"/G/Felipe/CygWin/Felipe/.minttyrc",
+		"/G/Felipe/CygWin/Felipe/.bashrc",
+		"/G/Felipe/CygWin/Felipe/.bash_history",
+		"/C/Users/Felipe/Server/quinelato/sites/default/settings.php",
+		"/C/Users/Felipe/Server/quinelato/.htaccess",
+		"/C/Users/Felipe/Downloads/Lista empreendedor Outubro",
+		"/C/Users/Felipe/Downloads/quiz/question_types/quiz_directions/quiz_directions.install",
+		"/C/Users/Felipe/Downloads/quiz/question_types/quiz_directions/quiz_directions.classes.inc",
+		"/C/Users/Felipe/Downloads/quiz/INSTALL.txt",
+		"/C/Users/Felipe/Downloads/quiz/quiz.install",
+		"/C/Program Files (x86)/Xampp/apache/conf/extra/httpd-default.conf",
+		"/C/Program Files (x86)/Xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Program Files (x86)/Xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Users/Felipe/Downloads/Torrents/Concluído/AP/Nero 2014 Platinum 15.0.02200 Final (Patch Kindly) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Felipe/Downloads/Torrents/Concluído/AP/Nero 2014 Platinum 15.0.02200 Final (Patch Kindly) [ChingLiu]/How To Open Nfo Files.txt",
+		"/C/Users/Felipe/VirtualBox VMs/precise32/precise32.vbox",
+		"/C/Users/Felipe/.VirtualBox/VirtualBox.xml",
+		"/C/Users/Felipe/VirtualBox VMs/Sites_sites_1380223109/Sites_sites_1380223109.vbox",
+		"/C/Users/Felipe/Sites/dcodde.js",
+		"/C/Users/Felipe/Sites/aaa/assets/vendors/js.url/jquery/jquery-url.js",
+		"/C/Users/Felipe/Sites/aaa/assets/vendors/js.url/js-url.js",
+		"/C/Users/Felipe/Sites/dcodde.html",
+		"/C/Users/Felipe/Music/iTunes/iTunes Media/.iTunes Preferences.plist",
+		"/C/Users/Felipe/Downloads/Torrents/Concluído/UK Official Top 40 Singles BBC 6-October-2013 [Bubanee]/3 - Extras (Change ext to HTML for Bubanee Releases)/Bubanee Greatest Magnets V1.7.1.nfo",
+		"/C/Users/Felipe/Downloads/comendador-master/dump_fornec.php",
+		"/C/Users/Felipe/Downloads/nfephp-master/nfephp-master/install.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/funcoes.js",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/html5.js",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/head.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/redes-sociais-rodape.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/rodape.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/scripts-rodape.php",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/header.php",
+		"/D/Users/Felipe/Sites/.htaccess",
+		"/D/Users/Felipe/Sites/robots.txt",
+		"/D/Users/Felipe/Sites/robots-denny.txt",
+		"/D/Users/Felipe/Sites/robots-allow.txt",
+		"/D/Users/Felipe/Sites/daniel-mai/robots-denny.txt",
+		"/D/Users/Felipe/Sites/daniel-mai/robots-allow.txt",
+		"/D/Users/Felipe/Sites/daniel-mai/.htaccess",
+		"/D/Users/Felipe/Sites/daniel-mai/robots.php",
+		"/D/Users/Felipe/Sites/daniel-mai/robots-allow.php",
+		"/D/Users/Felipe/Sites/daniel-mai/robots-denny.php",
+		"/C/Users/Felipe/Server/dcodde.base/app/views/themes/dcodde/html.blade.php",
+		"/C/Users/Felipe/Server/dcodde.base/app/views/admin/user/index.blade.php",
+		"/C/Users/Felipe/Sites/customers/staging/i/innbativel/2013/site/v1/app/views/themes/dcodde/html.blade.php",
+		"/C/Users/Felipe/Sites/customers/staging/i/innbativel/2013/site/v1/app/composers.php",
+		"/C/Users/Felipe/Sites/customers/staging/i/innbativel/2013/site/v1/app/controllers/AuthController.php",
+		"/C/Users/Felipe/Sites/customers/staging/i/innbativel/2013/site/v1/app/filters.php",
+		"/C/Users/Felipe/Server/dcodde.base/app/filters.php",
+		"/C/Users/Felipe/Server/dcodde.base/app/routes.php",
+		"/D/Users/Felipe/Sites/aaa/assets/holder.js",
+		"/C/Users/Felipe/Sites/demos/themes/backend/tfcrown/css/main.css",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/cache-file-descriptors.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/cross-domain-ajax.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/cross-domain-fonts.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/h5bp.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/expires.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/no-transform.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/protect-system-files.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/README.md",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/x-ua-compatible.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/conf/cache-busting.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/sites-available/example.com",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/nginx.conf",
+		"/C/Users/Felipe/Downloads/server-configs-nginx-master/mime.types",
+		"/C/Users/Felipe/AppData/Local/Temp/fz3temp-1/comprar_.php",
+		"/C/Users/Felipe/Server/default.vcl"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"D:\\Users\\Felipe\\Sites\\www.portoseguroimoveis.com.br",
+			"C:\\Users\\Felipe\\Desktop\\rive\\Nero-Danty-e-ssentials_Bestgfx.com\\e-ssentials",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\app\\libraries\\podesta\\requeriment\\src\\Requeriment",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\docs\\laravel",
+			"C:\\Users\\Felipe\\Sites\\dcodde.atual\\www\\app\\docs",
+			"C:\\Users\\Felipe\\Sites\\innbativel\\www\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle",
+			"D:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\Innbativel",
+			"D:\\Users\\Felipe\\Sites\\www\\www.portoseguroimoveis.com.br",
+			"D:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\Innbativel\\BraspagBundle",
+			"D:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\Innbativel",
+			"C:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\INNbativel",
+			"C:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\TaPronto\\BraspagBundle\\Model",
+			"C:\\Users\\Felipe\\Sites\\www\\innbativel\\src\\TaPronto",
+			"D:\\Users\\Felipe\\Sites\\www\\braspag2",
+			"C:\\Users\\Felipe\\Sites\\www\\braspag",
+			"D:\\Users\\Felipe\\Sites\\www\\braspag",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\vendor\\laravel\\framework\\src\\Illuminate\\Cache",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\vendor\\laravel\\framework\\src\\Illuminate",
+			"C:\\Users\\Felipe\\Sites\\www\\customers\\d\\dcodde\\projects\\2013\\site\\",
+			"C:\\Users\\Felipe\\Desktop\\SquareMusic\\asd",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\public\\assets\\css\\pannonia",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\vendor\\codesleeve\\asset-pipeline",
+			"C:\\Users\\Felipe\\Sites\\www\\resources\\templates\\admin\\aquincum",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\g\\global\\corporate\\wp-includes\\",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\modules\\system",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www",
+			"D:\\Users\\Felipe\\Sites\\www\\projects\\preprocess\\css\\",
+			"D:\\Users\\Felipe\\Sites\\dcodde\\www\\app\\views\\project",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\d\\dcodde\\projects\\2013\\site\\includes",
+			"C:\\Users\\Felipe\\Sites\\www\\customers\\q\\quinta-das-palmeiras\\wp-content\\themes\\bonestheme",
+			"C:\\Users\\Felipe\\Sites\\www\\customers\\q\\quinta-das-palmeiras\\wp-content\\themes\\bonestheme\\library\\translation",
+			"C:\\Users\\Felipe\\Sites\\www\\customers\\q\\quinta-das-palmeiras\\wp-content\\themes\\bonestheme",
+			"C:\\Users\\Felipe\\Sites\\www\\customers\\q\\quinta-das-palmeiras\\wp-content\\themes\\quintadaspalmeiras",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\d\\dcodde\\projects\\2013\\site\\vendor",
+			"C:\\Users\\Felipe\\Downloads\\B2BProfessional-master",
+			"D:\\Users\\Felipe\\Sites\\www\\resources\\templates\\websites",
+			"C:\\Users\\Felipe\\Sites\\www\\projects\\preprocess\\css\\inuit.css",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\resources\\templates\\websites\\CircleSpace",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\modules",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\modules",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\modules\\system",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\sites\\all\\modules\\field_slideshow",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\sites\\all\\modules\\views_slideshow",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\modules",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\modules",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\f\\felipepodesta\\projects\\2013\\website\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\p\\pucc",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\includes",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all\\themes\\adaptivetheme\\at_core\\inc",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all\\themes\\adaptivetheme\\at_core",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all\\themes\\adaptivetheme\\at_core\\templates",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all\\themes\\adaptivetheme\\at_core\\inc",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\e\\empreendedor\\sites\\all\\themes\\adaptivetheme\\at_core\\inc",
+			"D:\\Users\\Felipe\\Sites\\www\\code,*.css",
+			"D:\\Users\\Felipe\\Sites\\www\\projects\\drupal-base-instalation\\profiles\\felipepodesta",
+			"D:\\Users\\Felipe\\Sites\\www\\projects\\drupal-base-instalation\\profiles\\onelanguage",
+			"D:\\Users\\Felipe\\Sites\\www\\customers\\p\\padoka\\sites\\all\\themes\\sky\\js\\adamwulf-Columnizer-jQuery-Plugin-0db6955",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\base\\base_core\\inc",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\pucc",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\base\\base_core",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\includes",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\base",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\profiles\\standard\\translations",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\includes",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\base\\base_core",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\pucc",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\base",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes\\pucc",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\includes",
+			"C:\\Users\\Felipe\\Sites\\clientes\\p\\pucc\\sites\\all\\themes",
+			"C:\\Users\\Felipe\\Sites\\clientes\\w\\wihea\\sites\\all\\libraries",
+			"C:\\Users\\Felipe\\Sites\\clientes\\w\\wihea\\modules",
+			"D:\\Users\\Felipe\\Sites\\app\\web\\sites\\all\\themes\\sky\\css",
+			"D:\\Users\\Felipe\\Sites\\clientes\\s\\stockhouse\\app\\design\\frontend\\meigeetheme\\default\\layout",
+			"C:\\Users\\Felipe\\Sites\\clientes\\s\\stockhouse\\app\\design\\frontend\\meigeetheme\\default\\template",
+			"C:\\Users\\Felipe\\Sites\\clientes\\s\\stockhouse\\app\\design\\frontend\\meigeetheme\\default\\layout",
+			"C:\\Users\\Felipe\\Sites\\clientes\\s\\stockhouse\\app\\design\\frontend\\meigeetheme\\default\\template",
+			"C:\\Users\\Felipe\\Sites\\clientes\\s\\stockhouse\\app\\design\\frontend\\meigeetheme",
+			"C:\\Users\\Felipe\\Sites\\app\\web\\sites\\all\\themes\\adaptivetheme\\at_core\\inc"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"testes",
+			"tes",
+			"test",
+			"teste",
+			"180",
+			"60",
+			"30",
+			"=60",
+			"time=",
+			"di20quinelato2013_",
+			"CREATE TABLE `di20quinelato2013",
+			"D:\\",
+			"D:\\Apps\\CygWin\\home\\Felipe",
+			"30",
+			"60",
+			"30",
+			"= 30",
+			"2013/quinelato/",
+			"upload",
+			"64",
+			"C:\\cygwin64\\home\\",
+			"FelipeVirtualBox",
+			"C:",
+			"D:",
+			"D:\\",
+			"C:\\Users\\Felipe\\",
+			"710",
+			"7100",
+			"lazy",
+			"shi",
+			"shin",
+			"?v=201\"",
+			"add_contact",
+			"try",
+			"?v=103\"",
+			"sses",
+			"leftSide",
+			".sidebar",
+			"#sidebar",
+			"comprar_",
+			"number_format",
+			"\"></script>",
+			"<script type=\"text/javascript\" src=\"",
+			"them",
+			"sites",
+			".fone",
+			"#menu",
+			"'Myriad Pro'",
+			"destaques",
+			"#conteudo #carrossel_lancamentos .slider",
+			"470",
+			"480",
+			"#atendimento-n",
+			"310",
+			"carrossel_lancamentos",
+			"/assets/vendor/jquery/jquery.latest.min.js",
+			"http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+			"4px",
+			"js/jquery/uniform/css/square/images/sprite.png",
+			"capa",
+			"node-article",
+			"sd",
+			"#sobretopo",
+			"<script type=\"text/javascript\">\n(function(){try{\n    var piwikTracker = Piwik.getTracker(\"public_sbs/apps/stats/piwik/piwik.html\", 21);\n    piwikTracker.trackPageView();\n    piwikTracker.enableLinkTracking();\n}catch(e){}})();\n</script>\n<noscript style=\"display: none;\"><p><img src=\"public_sbs/apps/stats/piwik/piwik0c42.gif?idsite=21\" alt=\"Pwik\" /></p></noscript>",
+			"piwik",
+			"`piwik",
+			"PS1",
+			"fp_f_presente_finalizar_compra",
+			"calcula_total",
+			"lv4_config",
+			"f_numero",
+			"http://e-ssentials.fresh-pixel.com",
+			"<base href=\"http://e-ssentials.fresh-pixel.com/\" />",
+			"<a href=\"http://themeforest.net/item/essentials-responsive-opencart-template/3025063?ref=BittLoader\">Buy this template</a>",
+			" | <a href=\"http://themeforest.net/item/essentials-responsive-opencart-template/3025063?ref=BittLoader\">Buy this template</a>",
+			"Powered by fresh-pixel.com &copy; 2012",
+			"Powered by fresh-pixel.com &copy; 2012 | <a href=\"http://themeforest.net/item/essentials-responsive-opencart-template/3025063?ref=BittLoader\">Buy this template</a>",
+			"Wish List",
+			"Wish Lis",
+			"Order History",
+			"My Account",
+			"Affiliates",
+			"Gift Vouchers",
+			"Brands",
+			"Site Map",
+			"Returns",
+			"Contact Us",
+			"Terms &amp; Conditions",
+			"Terms & Conditions",
+			"Privacy Policy",
+			"Delivery Information",
+			"About Us",
+			"Search",
+			"Welcome visitor you can",
+			"Currency",
+			"Language",
+			"Language:",
+			"Language: ",
+			"Checkout",
+			"Shopping Cart",
+			"My Account",
+			"Wish List",
+			"/vagrant",
+			"pass",
+			"precise",
+			"<form ",
+			"FORM",
+			" tabindex=\"[0-9]+\"",
+			" tabindex=\"([09])\"",
+			"fp-form-finalizar-compra",
+			"by",
+			"perm",
+			"version",
+			");",
+			"    		echo function_exists(",
+			");",
+			"    		echo function_exists(",
+			"curl",
+			"info",
+			"fileinfo",
+			"timez",
+			"addPhpIniRequirement",
+			"mar",
+			"marg",
+			"baseDir",
+			"base",
+			"mode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fp_",
+			"CREATE TABLE `fp_",
+			"C:\\",
+			"C:\\cygwin64\\home\\Felipe",
+			"",
+			"C:\\Users\\",
+			"Felipe\\VirtualBox",
+			"C:\\",
+			"C:\\cygwin64\\home\\Felipe",
+			"?v=222\"",
+			"?v=201\"",
+			"')->apply('JsMin');",
+			"$collection->javascript('",
+			"tests",
+			"'Myriad Pro', Helvetica, Arial, sans-serif",
+			"758",
+			"768",
+			"470",
+			"carrossel_destaques",
+			"/assets/vendors/jquery/jquery.latest.min.js",
+			"/assets/vendor/jquery/jquery.latest.min.js",
+			"node-prnewswire",
+			"#sobre_topo",
+			"sites_config",
+			"",
+			"Lista de Presentes",
+			"Histórico de Compras",
+			"Minha Conta",
+			"Parceiros",
+			"Voucher para Presente",
+			"Manual de Marca",
+			"Mapa do Site",
+			"Estorno",
+			"Contato",
+			"Termos & Condições",
+			"Política de Privacidade",
+			"Informações de Entrega",
+			"Sobre",
+			"Pesquisar",
+			"Bem-vindo visitante, você pode",
+			"Moeda",
+			"Idioma",
+			"Idioma:",
+			"Finalizar Compra",
+			"Carrinho de Compras",
+			"Minha Conta",
+			"Lista de Desejos",
+			"",
+			",",
+			"'' => ",
+			" => '',",
+			"",
+			"storageFolder",
+			"'",
+			"dcodde",
+			"",
+			">\\n",
+			"assets/vendors/h5ai",
+			"'",
+			"",
+			"'",
+			"' => (string) null,",
+			"'",
+			"' => (string) null,",
+			"'",
+			"",
+			"'",
+			"),",
+			"' => array(",
+			"'",
+			"\\}\\n\\n",
+			"array(",
+			"'",
+			"",
+			"css",
+			"",
+			"app",
+			"=",
+			"}",
+			"",
+			"\\}\\n",
+			"'",
+			"app",
+			"",
+			"app",
+			"app_dev",
+			"{ public function __construct() {}",
+			"'Undefined'",
+			"",
+			"$data->",
+			"protected",
+			"public $Bill",
+			"",
+			"$",
+			"Bill",
+			"public function setBill",
+			"public function getBill",
+			"public $Bill",
+			"Bill",
+			"FirstName",
+			"LastName",
+			"?v=103",
+			".live('click', function",
+			".js?v=200\"",
+			"",
+			"innbativel_braspag",
+			"innbativel",
+			"",
+			"Innbativel",
+			"CustomerIdNumber",
+			"customerIdNumber",
+			"app_dev",
+			"",
+			"app_dev",
+			"",
+			"INNbativel",
+			"AbstractModel",
+			"Transaction",
+			"",
+			"\\Menu::",
+			"th",
+			"es/<?php print drupal_lookup_path",
+			"'vendors/",
+			"../images/",
+			"themes/dcodde/scripts",
+			"index.php",
+			"<a href=\"es/<?php print drupal_lookup_path",
+			"<a href=\"es<?php print drupal_lookup_path"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.clipboard_manager":
+	{
+		"height": 118.0
+	},
+	"output.composer":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 419.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}
