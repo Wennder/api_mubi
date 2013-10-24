@@ -252,7 +252,7 @@
 	// echo '</PRE><BR>';
 
 	#Consultar pelo Recibo
-	$recibo = $aResp['nRec']; //este é o numero do seu recibo mude antes de executar este script
+	echo $recibo = $aResp['nRec']; //este é o numero do seu recibo mude antes de executar este script
 	$chave = '';
 	$tpAmb = '2'; //homologação
 
@@ -261,25 +261,25 @@
 	    //houve retorno mostrar dados
 	    if($aResp['aProt']['0']['cStat'] == '100'){
 	    	// print_r($aResp);
-	    	// echo '<br>';
-		    // echo $aResp['aProt']['0']['chNFe'];
-		    // echo '<br>';
-		    // echo $aResp['aProt']['0']['dhRecbto'];
-		    // echo '<br>';
-		    // echo $aResp['aProt']['0']['nProt'];
-		    // echo '<br>';
+	    	echo '<br>';
+		    echo $aResp['aProt']['0']['chNFe'];
+		    echo '<br>';
+		    echo $aResp['aProt']['0']['dhRecbto'];
+		    echo '<br>';
+		    echo $aResp['aProt']['0']['nProt'];
+		    echo '<br>';
 
 		    #Gera Danfe
-		    require_once('../nfephp/libs/DanfeNFePHP.class.php');
+		 //    require_once('../nfephp/libs/DanfeNFePHP.class.php');
 
-			$arq = $file;
+			// $arq = $file;
 
-			if ( is_file($arq) ){
-			    $docxml = file_get_contents($arq);
-			    $danfe = new DanfeNFePHP($docxml, 'P', 'A4','../nfephp/images/logo.jpg','I','');
-			    $id = $danfe->montaDANFE();
-			    $teste = $danfe->printDANFE($id.'.pdf','I');
-			}
+			// if ( is_file($arq) ){
+			//     $docxml = file_get_contents($arq);
+			//     $danfe = new DanfeNFePHP($docxml, 'P', 'A4','../nfephp/images/logo.jpg','I','');
+			//     $id = $danfe->montaDANFE();
+			//     $teste = $danfe->printDANFE($id.'.pdf','I');
+			// }
 
 			#cancela nota
 			$chNFe = $aResp['aProt']['0']['chNFe'];
@@ -290,14 +290,14 @@
 
 			if ($resp = $nfe->cancelEvent($chNFe,$nProt,$xJust,$tpAmb,$modSOAP)){
 			    // header('Content-type: text/xml; charset=UTF-8');
-			    // echo $resp;
+			    echo $resp;
 			} else {
-			    // header('Content-type: text/html; charset=UTF-8');
-			    // echo '<BR>';
-			    // echo $nfe->errMsg.'<BR>';
-			    // echo '<PRE>';
-			    // echo htmlspecialchars($nfe->soapDebug);
-			    // echo '</PRE><BR>';
+			    header('Content-type: text/html; charset=UTF-8');
+			    echo '<BR>';
+			    echo $nfe->errMsg.'<BR>';
+			    echo '<PRE>';
+			    echo htmlspecialchars($nfe->soapDebug);
+			    echo '</PRE><BR>';
 			}   
 		}else{
 			echo $aResp['aProt']['0']['xMotivo'];
